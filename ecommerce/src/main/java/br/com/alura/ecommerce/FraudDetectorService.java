@@ -31,7 +31,7 @@ public class FraudDetectorService {
                         e.printStackTrace();
                     }
 
-                    System.out.println("Order processed");
+                    System.out.println("Orders processed");
                 }
             }
         }
